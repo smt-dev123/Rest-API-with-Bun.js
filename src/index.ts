@@ -11,5 +11,5 @@ const server = Bun.serve({
   port: 3001,
 });
 
-console.log(figlet.textSync("SMT JS"));
+console.log(figlet.textSync("Bun.js"));
 console.log(`Listening on http://localhost:${server.port}`);
