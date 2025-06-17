@@ -6,6 +6,8 @@ out
 dist
 *.tgz
 
+mydb.sqlite
+
 # code coverage
 coverage
 *.lcov
